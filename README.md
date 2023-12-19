@@ -4,5 +4,5 @@ I'm a student currently working torwards a BSc degree in Software Engineering at
 
 I'm interested in FOSS, Software Engineering, and Functional Programming. Mainly working with Linux, Nix, Rust, and C/C++.
 
-[![stats](https://github-readme-stats.vercel.app/api?username=ethangillengg&theme=material-palenight)](https://github.com/ethangillengg)
-[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethangillengg&langs_count=8&layout=compact&theme=material-palenight)](https://github.com/ethangillengg?tab=repositories)
+[![stats](https://github-readme-stats-six-fawn-66.vercel.app/api?username=ethangillengg&theme=material-palenight)](https://github.com/ethangillengg)
+[![langs](https://github-readme-stats-six-fawn-66.vercel.app/api/top-langs/?username=ethangillengg&langs_count=8&layout=compact&theme=material-palenight)](https://github.com/ethangillengg?tab=repositories)
