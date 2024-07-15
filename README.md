@@ -2,7 +2,7 @@
 
 I'm a student currently working torwards a BSc degree in Software Engineering at [University of Calgary](https://www.ucalgary.ca/)'s [Schulich School of Engineering](https://schulich.ucalgary.ca/).
 
-I'm interested in FOSS, Software Engineering, and Functional Programming. Mainly working with Linux, Nix, Rust, and C/C++.
+I'm interested in FOSS, Software Engineering, and Functional Programming. Mainly working with Linux, Nix, Go, and C/C++.
 
 <a href="https://github.com/ethangillengg">
   <img height=200 align="center" src="https://github-readme-stats-six-fawn-66.vercel.app/api?username=ethangillengg&theme=omni&show_icons=true" />
