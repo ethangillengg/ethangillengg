@@ -1,6 +1,6 @@
 ### Hey, I'm Ethan 👋 
 
-I'm a student currently working torwards a BSc degree in Software Engineering at [University of Calgary](https://www.ucalgary.ca/)'s [Schulich School of Engineering](https://schulich.ucalgary.ca/).
+I'm a fullstack software engineer with a BSc degree in Software Engineering at [University of Calgary](https://www.ucalgary.ca/)'s [Schulich School of Engineering](https://schulich.ucalgary.ca/).
 
 I'm interested in FOSS, Software Engineering, and Functional Programming. Mainly working with Linux, Nix, Go, and C/C++.
 
